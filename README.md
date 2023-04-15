@@ -6,4 +6,3 @@ El repositorio contiene un archivo .pdf en el cual se detallan todas las especif
 
 Pueden consultar mi Linkedin para más información sobre mi perfil:<br>
 https://www.linkedin.com/in/smatulionis/
-[BD_escuela.pdf](https://github.com/smatulionis/Proyecto_Coderhouse-BD_escuela/files/11239903/BD_escuela.pdf)

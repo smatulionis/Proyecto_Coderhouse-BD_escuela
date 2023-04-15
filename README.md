@@ -1,4 +1,4 @@
-# Proyecto Coderhouse - Base de datos de un colegio
+# Proyecto Coderhouse - Base de datos de una escuela
 
 Bienvenidos a mi proyecto final realizado para aprobar el curso de SQL de Coderhouse.<br> 
 El proyecto implica la creación de una base de datos desde cero, utilizando información ficticia para tratar de simular un modelo de la vida real que podría beneficiar en este caso a una escuela. Se implementan distintas consultas y se hace uso de vistas, funciones, stored procedures y triggers.<br>
